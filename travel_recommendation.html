@@ -2,9 +2,51 @@
 
 <html>
   <head>
-    <title> </title>
+    <link rel="stylesheet" href="css/style.css" />
+    <title>TravelGinie</title>
   </head>
   <body>
-    <nav></nav>
+    <nav>
+      <div id="nav-container">
+        <div class="brand"><h3>TravelGenie</h3></div>
+        <div class="topdiv">
+          <a class="topmenu" href="/travel_recommendation.html">Home</a>
+          <a class="topmenu" href="/about_us.html">About </a>
+          <a class="topmenu" href="/contact_us.html">Contact Us</a>
+        </div>
+        <div class="search-bar">
+          <form>
+            <input
+              id="searchInput"
+              type="search"
+              placeholder="Enter a destination or keywords"
+              aria-label="Search"
+            />
+            <button id="searchButton" type="button">Search</button>
+            <button id="clearButton" type="reset">Clear</button>
+          </form>
+        </div>
+      </div>
+    </nav>
+    <div id="result-container">
+      <!--Results container-->
+    </div>
+    <div id="page-container">
+      <div id="content-container">
+        <div class="home-div">
+          <div>
+            <h1>EXPLORE YOUR DREAM DESTINATION</h1>
+          </div>
+          <div>
+            <p>
+              Explore unfamiliar territories, embracing devirse cultures and
+              landscapes, while igniting your sense of wonder. The world is
+              waiting for you.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="travel_recommendation.js"></script>
   </body>
 </html>

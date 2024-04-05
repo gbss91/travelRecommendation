@@ -6,12 +6,12 @@
       "cities": [
         {
           "name": "Sydney, Australia",
-          "imageUrl": "enter_your_image_for_sydney.jpg",
+          "imageUrl": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
           "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
         },
         {
           "name": "Melbourne, Australia",
-          "imageUrl": "enter_your_image_for_melbourne.jpg",
+          "imageUrl": "https://images.unsplash.com/photo-1594300157693-a741f98738c2?q=80&w=3175&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
           "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
         }
       ]
@@ -22,12 +22,12 @@
       "cities": [
         {
           "name": "Tokyo, Japan",
-          "imageUrl": "enter_your_image_for_tokyo.jpg",
+          "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?q=80&w=2988&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
           "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
         },
         {
           "name": "Kyoto, Japan",
-          "imageUrl": "enter_your_image_for_kyoto.jpg",
+          "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
           "description": "Known for its historic temples, gardens, and traditional tea houses."
         }
       ]
@@ -38,12 +38,12 @@
       "cities": [
         {
           "name": "Rio de Janeiro, Brazil",
-          "imageUrl": "enter_your_image_for_rio.jpg",
+          "imageUrl": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
           "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks."
         },
         {
           "name": "SÃ£o Paulo, Brazil",
-          "imageUrl": "enter_your_image_for_sao-paulo.jpg",
+          "imageUrl": "https://images.unsplash.com/photo-1572894234976-d961418c709d?q=80&w=3024&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
           "description": "The financial hub with diverse culture, arts, and a vibrant nightlife."
         }
       ]
@@ -53,13 +53,13 @@
     {
       "id": 1,
       "name": "Angkor Wat, Cambodia",
-      "imageUrl": "enter_your_image_for_angkor-wat.jpg",
+      "imageUrl": "https://images.unsplash.com/photo-1606231140504-b6ec6cbbbf6b?q=80&w=2433&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "A UNESCO World Heritage site and the largest religious monument in the world."
     },
     {
       "id": 2,
       "name": "Taj Mahal, India",
-      "imageUrl": "enter_your_image_for_taj-mahal.jpg",
+      "imageUrl": "https://images.unsplash.com/photo-1564507592333-c60657eea523?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
     }
   ],
@@ -67,13 +67,13 @@
     {
       "id": 1,
       "name": "Bora Bora, French Polynesia",
-      "imageUrl": "enter_your_image_for_bora-bora.jpg",
+      "imageUrl": "https://images.unsplash.com/photo-1589197331516-4d84b72ebde3?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
     },
     {
       "id": 2,
       "name": "Copacabana Beach, Brazil",
-      "imageUrl": "enter_your_image_for_copacabana.jpg",
+      "imageUrl": "https://images.unsplash.com/photo-1630410139620-15d3a0791a5b?q=80&w=3165&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
     }
   ]
